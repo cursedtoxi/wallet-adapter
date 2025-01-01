@@ -1,8 +1,8 @@
 {
     "name": "@solana/wallet-adapter-wallets",
-    "version": "0.19.24",
+    "version": "0.19.32",
     "author": "Solana Maintainers <maintainers@solana.foundation>",
-    "repository": "https://github.com/solana-labs/wallet-adapter",
+    "repository": "https://github.com/anza-xyz/wallet-adapter",
     "license": "Apache-2.0",
     "publishConfig": {
         "access": "public"
@@ -13,7 +13,7 @@
         "LICENSE"
     ],
     "engines": {
-        "node": ">=16"
+        "node": ">=18"
     },
     "type": "module",
     "sideEffects": false,
@@ -66,6 +66,7 @@
         "@solana/wallet-adapter-tokenary": "workspace:^",
         "@solana/wallet-adapter-tokenpocket": "workspace:^",
         "@solana/wallet-adapter-torus": "workspace:^",
+        "@solana/wallet-adapter-trezor": "workspace:^",
         "@solana/wallet-adapter-trust": "workspace:^",
         "@solana/wallet-adapter-unsafe-burner": "workspace:^",
         "@solana/wallet-adapter-walletconnect": "workspace:^",

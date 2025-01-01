@@ -17,8 +17,9 @@ Several core packages are maintained by the community to support additional fron
 
 - [Vue](https://github.com/lorisleiva/solana-wallets-vue)
 - [Angular](https://github.com/heavy-duty/platform/tree/master/libs/wallet-adapter)
-- [Svelte](https://github.com/svelte-on-solana/wallet-adapter)
+- [Svelte](https://github.com/aztemi/svelte-on-solana-wallet-adapter)
 - [TypeScript](https://github.com/ronanyeah/solana-connect)
+- [Ant Design Web3](https://web3.ant.design/components/solana)
 
 ### UI Components
 These packages provide components for common UI frameworks.
@@ -68,6 +69,7 @@ You can use the [wallets](https://github.com/solana-labs/wallet-adapter/tree/mas
 | [tokenary](https://github.com/solana-labs/wallet-adapter/tree/master/packages/wallets/tokenary)           | Adapter for [Tokenary](https://tokenary.io)                     | [`@solana/wallet-adapter-tokenary`](https://npmjs.com/package/@solana/wallet-adapter-tokenary)           |
 | [tokenpocket](https://github.com/solana-labs/wallet-adapter/tree/master/packages/wallets/tokenpocket)     | Adapter for [TokenPocket](https://tokenpocket.pro)              | [`@solana/wallet-adapter-tokenpocket`](https://npmjs.com/package/@solana/wallet-adapter-tokenpocket)     |
 | [torus](https://github.com/solana-labs/wallet-adapter/tree/master/packages/wallets/torus)                 | Adapter for [Torus](https://tor.us)                             | [`@solana/wallet-adapter-torus`](https://npmjs.com/package/@solana/wallet-adapter-torus)                 |
+| [trezor](https://github.com/solana-labs/wallet-adapter/tree/master/packages/wallets/trezor)               | Adapter for [Trezor](https://trezor.io)                         | [`@solana/wallet-adapter-trezor`](https://npmjs.com/package/@solana/wallet-adapter-trezor)                |
 | [trust](https://github.com/solana-labs/wallet-adapter/tree/master/packages/wallets/trust)                 | Adapter for [Trust Wallet](https://trustwallet.com)             | [`@solana/wallet-adapter-trust`](https://npmjs.com/package/@solana/wallet-adapter-trust)                 |
 | [walletconnect](https://github.com/solana-labs/wallet-adapter/tree/master/packages/wallets/walletconnect) | Adapter for [WalletConnect](https://walletconnect.com)          | [`@solana/wallet-adapter-walletconnect`](https://npmjs.com/package/@solana/wallet-adapter-walletconnect) |
 | [xdefi](https://github.com/solana-labs/wallet-adapter/tree/master/packages/wallets/xdefi)                 | Adapter for [XDEFI](https://xdefi.io)                           | [`@solana/wallet-adapter-xdefi`](https://npmjs.com/package/@solana/wallet-adapter-xdefi)                 |
